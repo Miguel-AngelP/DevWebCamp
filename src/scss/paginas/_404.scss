@@ -1,0 +1,15 @@
+@use 'base/variables' as v;
+
+
+.pagina__404{
+
+
+    &__contenedor{
+        text-align: center;
+    }
+
+    &__enlace{
+        color: v.$azul;
+    }
+
+}
